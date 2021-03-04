@@ -1,4 +1,4 @@
-[
+{ "teams":[
     {
       "name": "Burnley FC",
       "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/sqrttx1448811003.png",
@@ -100,3 +100,4 @@
       "country": "England"
     }
   ]
+}
