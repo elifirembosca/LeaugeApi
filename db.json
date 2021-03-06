@@ -1,5 +1,30 @@
 { "teams":[
     {
+      "name": "Burnley",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/sqrttx1448811003.png",
+      "country": "England"
+    },
+    {
+      "name": "Manchester United",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/xzqdr11517660252.png",
+      "country": "England"
+    },
+    {
+      "name": "Manchester City",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/vwpvry1467462651.png",
+      "country": "England"
+    },
+    {
+      "name": "Aston Villa",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/aofmzk1565427581.png",
+      "country": "England"
+    },
+    {
+      "name": "Fulham",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/xwwvyt1448811086.png",
+      "country": "England"
+    },
+    {
       "name": "Arsenal",
       "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/uyhbfe1612467038.png",
       "country": "England"
@@ -48,6 +73,32 @@
       "name": "Tottenham Hotspur",
       "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/dfyfhl1604094109.png",
       "country": "England"
+    },
+    {
+      "name": "Everton",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/eqayrf1523184794.png",
+      "country": "England"
+    },
+    {
+      "name": "Sheffield United",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/qutsut1424032614.png",
+      "country": "England"
+    },
+    {
+      "name": "Wolverhampton Wanderers",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/qwvuqy1448811552.png",
+      "country": "England"
+    },
+    {
+      "name": "Brighton & Hove Albion",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/ywypts1448810904.png",
+      "country": "England"
+    },
+    {
+      "name": "Chelsea",
+      "code": "https:\/\/www.thesportsdb.com\/images\/media\/team\/badge\/yvwvtu1448813215.png",
+      "country": "England"
     }
   ]
 }
+
